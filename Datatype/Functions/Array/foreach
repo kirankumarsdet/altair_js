@@ -1,0 +1,12 @@
+var arr=[1,2,3,5,6]
+arr.forEach((element, index, arr) => 
+    {
+        console.log(element + "  " +index +"    "+arr)
+    
+});
+
+
+var brr=['kir',1,'g']
+arr.forEach(() => {
+    
+});

@@ -1,0 +1,6 @@
+var productDetais =["CPU", 1000, "500gb"]
+for (const key in Object) 
+{
+    console.log(key+"  " +productDetais)
+    
+    }
