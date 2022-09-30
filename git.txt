@@ -1,0 +1,6 @@
+gitlink for js=https://github.com/kirankumarsdet/altair_js.git
+
+
+Url=https://github.com/kirankumarsdet/SalesandInventory.git
+token=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
+un=kirankumarsdet
