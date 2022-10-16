@@ -36,8 +36,8 @@ static StaticMethod()
     }    
 }
 var veh= new vehicles();
-//  var vehDetails1=new vehicles("enfiled",'thunderbolt',1500)
-//  var vehDetails2=new vehicles("Bajaj","pulsar",500)
+ var vehDetails1=new vehicles("enfiled",'thunderbolt',1500)
+var vehDetails2=new vehicles("Bajaj","pulsar",500)
 
  //Accessing static variable - class reference
  console.log(vehicles.newBike)
@@ -47,3 +47,7 @@ var veh= new vehicles();
  console.log(vehicles.bikes());
  //Accessing non static method outside class - obj reference
  console.log(veh.car()); 
+
+ 
+console.log(vehDetails1);
+console.log(vehDetails2);

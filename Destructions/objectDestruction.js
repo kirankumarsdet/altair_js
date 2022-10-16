@@ -1,6 +1,7 @@
 var c1employees ={
     e1:'kiran',e2:'abhi',e3:'swaraj',
-    dept:['ele','mech','civil'],otherDetails:function()
+    dept:['ele','mech','civil'],
+    otherDetails:function()
     {
         console.log("Hello my name is "+" "+this.e1 +" "+"and im from "+this.dept[1])
     }

@@ -37,4 +37,3 @@ var person1={
     firstName:"mary",lastName:"joe"
 }
 result=person.fulname.call(person1)
-

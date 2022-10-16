@@ -1,14 +1,19 @@
 var a =1;
 var c=3;
 var b=8;
-while(a<=c) 
-{
+// while(a<=c) 
+// {
     
-    console.log(a)
-    a++;
-}
+//     console.log(a)
+//     a++;
+// }
 //  for (var i=0; i < b; i++)
 //  {
    
 //     console.log(i)
 //  }
+
+for (let index = 0; index < b; index++) {
+    console.log(index);
+    
+}
